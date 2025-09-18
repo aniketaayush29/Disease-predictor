@@ -1,4 +1,4 @@
 
-# Multi_disease_model
+# Disease predictor
 
-live  link:https://multidiseasemodel-etvaginuatap4suiw4ctdh.streamlit.app/
+live  link:https://disease-predictor-agkhmqewox3wfnbavk9f93.streamlit.app/
